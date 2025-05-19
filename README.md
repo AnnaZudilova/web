@@ -14,6 +14,6 @@
 
 ## Bug reports and Test run files for Cart Management и Order Management features
 
-[Link to XLS file with Bug reports](https://github.com/AnnaZudilova/web/blob/main/Bug%20Reports.xlsx)
+[Link to XLS file with Bug reports](https://github.com/AnnaZudilova/web/blob/main/Bug%20Reports%202.xlsx)
 
 [Link to PDF file with Test run results](https://github.com/AnnaZudilova/web/blob/main/G10-Test%2Brun%2B2025_05_15.pdf)
