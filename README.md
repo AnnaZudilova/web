@@ -17,3 +17,9 @@
 [Link to XLS file with Bug reports](https://github.com/AnnaZudilova/web/blob/main/Bug%20Reports%202.xlsx)
 
 [Link to PDF file with Test run results](https://github.com/AnnaZudilova/web/blob/main/G10-Test%2Brun%2B2025_05_15.pdf)
+
+## Examples of Traffic Interception Using Charles Proxy
+
+[Modifying Response Status Code Using Breakpoints](https://github.com/AnnaZudilova/web/blob/main/403%20status%20code%202.mp4)
+[Modifying the Number of Items in the Cart Using Breakpoints](https://github.com/AnnaZudilova/web/blob/main/500%20items%202.mp4)
+[Redirecting Requests from Prod to QA Using Map Remote](https://github.com/AnnaZudilova/web/blob/main/redirect%202.mp4)
