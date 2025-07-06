@@ -9,7 +9,7 @@ I prepared test documentation for testing the Cart Management и Order Managemen
 
 #### Test cases for testing Cart Management и Order Management features
 <ul>
-<a href="https://github.com/AnnaZudilova/web/blob/main/G10-2025-05-12-Test%20cases.pdf">Test Case via QASE</a>
+<a href="https://github.com/AnnaZudilova/web/blob/main/G10-2025-05-12-Test%20cases.pdf">Test Cases via QASE</a>
 </ul>
 
 #### Checklist for testing Cart Management и Order Management features
