@@ -1,4 +1,4 @@
-# Web application testing
+# Web Application Testing
 
 I prepared test documentation for testing the Cart Management и Order Management modules of the "Online Store" application and also some examples of Traffic Interception using Charles Proxy
 
@@ -17,9 +17,9 @@ Checklist for testing Cart Management и Order Management features
 <a href="https://docs.google.com/spreadsheets/d/13-Bz_m-ONh_ZVxiSghLXPKGPMlmJfP9CbyyGyhwk5tc/edit?gid=0#gid=0">Checklist</a>
 </ul>
 
-Bug reports and Test run resalts for Cart Management и Order Management features
+Bug reports and Test run results for Cart Management и Order Management features
 <ul>
-<a href="https://github.com/AnnaZudilova/web/blob/main/Bug%20Reports%202.xlsx">Bug Reports via Youtrack</a>
+<a href="https://docs.google.com/spreadsheets/d/1JMUz2kRWhj_VnBez3fw7ZGY94vy-zLxf/edit?usp=drive_link&ouid=101111610463519058114&rtpof=true&sd=true">Bug Reports via Youtrack</a>
 
 <a href="https://github.com/AnnaZudilova/web/blob/main/G10-Test%2Brun%2B2025_05_15.pdf">Test Run Results via Qase</a> 
 </ul>
@@ -29,7 +29,6 @@ Examples of Traffic Interception Using Charles Proxy
 <a href="https://github.com/AnnaZudilova/web/blob/main/403%20status%20code%202.mp4">Modifying Response Status Code Using Breakpoints</a>
 
 <a href="https://github.com/AnnaZudilova/web/blob/main/500%20items%202.mp4">Modifying the Number of Items in the Cart Using Breakpoints</a>
-
 <a href="https://github.com/AnnaZudilova/web/blob/main/redirect%202.mp4">Redirecting Requests from Prod to QA Using Map Remote</a>
 </ul>
 
