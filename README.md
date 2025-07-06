@@ -26,9 +26,10 @@ Bug reports and Test run results for Cart Management и Order Management feature
 
 Examples of Traffic Interception Using Charles Proxy
 <ul>
-<a href="https://github.com/AnnaZudilova/web/blob/main/403%20status%20code%202.mp4">Modifying Response Status Code Using Breakpoints</a>
+<a href="https://drive.google.com/file/d/1S-Pa-oWOV99Ysx6lh807kwUAhYznFQst/view?usp=drive_link">Modifying Response Status Code Using Breakpoints</a>
 
-<a href="https://github.com/AnnaZudilova/web/blob/main/500%20items%202.mp4">Modifying the Number of Items in the Cart Using Breakpoints</a>
-<a href="https://github.com/AnnaZudilova/web/blob/main/redirect%202.mp4">Redirecting Requests from Prod to QA Using Map Remote</a>
+<a href="https://drive.google.com/file/d/1l68p4mDAq7CaAgahnK23URfZjZDt_dkc/view?usp=drive_link">Modifying the Number of Items in the Cart Using Breakpoints</a>
+
+<a href="https://drive.google.com/file/d/1kt_gKsn7Qv8lA0zAnE_Tpj8IVJbo85Ya/view?usp=drive_link">Redirecting Requests from Prod to QA Using Map Remote</a>
 </ul>
 
